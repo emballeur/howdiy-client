@@ -33,7 +33,7 @@ export class Home extends Component {
               find out more...
             </NavLink>
           </div>
-          <h5>Go on, bet Grandma has some wise wisdoms we can rescue....</h5>
+          <h5 className="page-bottom">Go on, bet Grandma has some wise wisdoms we can rescue....</h5>
         </div>
       </div>
     );
