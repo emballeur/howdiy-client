@@ -50,6 +50,7 @@ export class Join extends Component {
             </NavLink>
           </div>
           )}
+          <br className="page-bottom"/>
         </div>
       </div>
     );

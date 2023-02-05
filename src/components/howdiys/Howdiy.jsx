@@ -291,6 +291,7 @@ export class Howdiy extends Component {
               </div>
             );
           })}
+          <br className="page-bottom"/>
       </>
     );
   }

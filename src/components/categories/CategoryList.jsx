@@ -108,6 +108,7 @@ class CategoryList extends Component {
               </>
             );
           })}
+          <br className="page-bottom"/>
       </div>
     );
   }

@@ -121,6 +121,7 @@ class Profile extends Component {
               </>
             );
           })}
+        <br className="page-bottom"/>
       </div>
     );
   }
