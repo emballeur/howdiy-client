@@ -287,7 +287,6 @@ export class Howdiy extends Component {
                     Delete
                   </button>
                 )}
-                <hr></hr>
               </div>
             );
           })}
