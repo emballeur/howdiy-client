@@ -37,6 +37,7 @@
 }
 
 .root-submit {
+  border: none;
   background-color: rgb(65, 52, 47);
   text-decoration: none;
   border-radius: 6px;
