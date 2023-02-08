@@ -46,7 +46,7 @@
   box-shadow: 8px 9px 0px rgba(0, 0, 0, 0.1);
 }
 
-.root-submit:hover {
+.root-submit:hover, .root-submit:active {
   box-shadow: 5px 6px 0px rgba(0, 0, 0, 0.1);
   background-color: #6a776a;
   text-decoration: none;
