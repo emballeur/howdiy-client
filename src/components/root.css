@@ -1,4 +1,11 @@
 /* HOME */
+.home-txt {
+  margin-bottom: 3vh;
+}
+
+.home-bottom {
+  margin-bottom: 5vh;
+}
 
 .page-bottom {
   margin-top: 40px;
@@ -52,7 +59,7 @@
   display: flex;
   justify-content: center;
   flex-direction: column;
-  margin: 10vh 26vw 5vh 26vw;
+  margin: 10vh 20vw 5vh 20vw;
 }
 
 .root-img-styles {
