@@ -44,6 +44,7 @@
 /* Only the following was added by Kim Kong: */
 
 .button-link {
+  box-shadow: 5px 6px 0px rgba(0, 0, 0, 0.1);
   text-decoration: none;
   color: #dbd5d1;
   font-size: 1.2vmax;
@@ -60,7 +61,11 @@
 }
 
 .button-link:hover {
+  background-color: #657963;
+  box-shadow: 3px 4px 0px rgba(0, 0, 0, 0.1);
   color:thistle;
+  transform: translateX(2px) translateY(3px);
+  transition: background-color 500ms ease-in;
 }
 
 button {
